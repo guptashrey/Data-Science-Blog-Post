@@ -1,8 +1,8 @@
 # Write a Data Science Blog Post
 
-1. [ Introduction ](#intro)
-2. [ Installation ](#install)
-3. [ File Descriptions ](#file_desc)
+1. [Introduction](#intro)
+2. [Installation](#install)
+3. [File Descriptions](#file_desc)
 
 <a name="intro"></a>
 ## 1. Introduction
