@@ -40,7 +40,7 @@ root/
 └── .ipynb
 ```
 ## 4. Results <a name="results"></a>
-The main findings of the project can be found at the blog post available [here]().
+The main findings of the project can be found at the blog post available [here](https://medium.com/@gupta.shrey/stack-overflow-developer-survey-2017-analysis-1c251ad0e366).
 
 ## 5. Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
