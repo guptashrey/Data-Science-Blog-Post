@@ -17,7 +17,11 @@ Questions:
 
 <a name="install"></a>
 ## 2. Installation
-The code was developed using Python version 3.9. We recommend using [Anaconda](https://docs.anaconda.com/anaconda/install/index.html) for installing **Python 3** as well as other required libraries.
+The code was developed using Python version 3.9. We recommend using [Anaconda](https://docs.anaconda.com/anaconda/install/index.html) for installing **Python 3** as well the following required libraries:
+  - pandas
+  - numpy
+  - json
+  - plotly
 
 <a name="file_desc"></a>
 ## 3. File Descriptions
