@@ -3,6 +3,8 @@
 1. [Introduction](#intro)
 2. [Installation](#install)
 3. [File Descriptions](#file_desc)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 <a name="intro"></a>
 ## 1. Introduction
@@ -37,3 +39,8 @@ root/
 ├── README.md
 └── .ipynb
 ```
+## 4. Results <a name="results"></a>
+The main findings of the project can be found at the blog post available [here]().
+
+## 5. Licensing, Authors, Acknowledgements<a name="licensing"></a>
+Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
